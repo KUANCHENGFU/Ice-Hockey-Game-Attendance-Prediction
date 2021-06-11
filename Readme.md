@@ -1,4 +1,4 @@
-# Ice Hoceky Game Attenddance Prediction
+# Ice Hockey Game Attendance Prediction
 
 ## Overview
 Imagine that the VP of Ticket Sales asks you to predict our attendance for next season and use this information to sort our games into tier levels based on demand. Therefore, the purpose of this project is to develop a reliable framework which is capable of predicting attendance for the upcoming season's home games and placing them into tiers. The project is composed of below parts: feature preprocessing, feature engineering, model building, hyperparameter tuning, model evaluation, feature importance, and attendance prediction.
