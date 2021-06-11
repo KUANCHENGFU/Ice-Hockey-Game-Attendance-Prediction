@@ -7,4 +7,4 @@ The distribution of attendance from the 14-15 season to the 19-20 season shows t
 
 
 ## Link to the Project
-1. https://nbviewer.jupyter.org/github/KUANCHENGFU/Ice-Hoceky-Game-Attenddance-Prediction/blob/main/Ice_hoceky_game_attenddance_prediction.ipynb
+1. https://nbviewer.jupyter.org/github/KUANCHENGFU/Ice-Hoceky-Game-Attenddance-Prediction/blob/main/Ice_hockey_game_attendance_prediction.ipynb
